@@ -3,9 +3,9 @@
 // ==========================================
 
 // 10 LET VARIABLES
-let firstName = "Darwin";
-let lastName = "Mirales";
-let age = 20;
+let firstName = "Rosilito";
+let lastName = "Espinola";
+let age = 27;
 let course = "BS Computer Science";
 let yearLevel = 3;
 let section = "BSCS-3B";
@@ -80,8 +80,8 @@ const [color1, color2, color3] = colors;
 // ==========================================
 
 const student = {
-    name: "Darwin",
-    age: 20,
+    name: "Rosilito",
+    age: 27,
     course: "BSCS"
 };
 
@@ -130,8 +130,8 @@ const allGrades = [...firstGrades, 85, 92];
 // ==========================================
 
 const basicStudent = {
-    name: "Darwin",
-    age: 20
+    name: "Rosilito",
+    age: 27
 };
 
 const completeStudent = {
@@ -186,7 +186,7 @@ const highGrades = studentGrades.filter(
 // ==========================================
 
 const studentData = {
-    name: "Darwin",
+    name: "Rosilito",
     address: {
         city: "Calbayog City"
     }
